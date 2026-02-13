@@ -1,7 +1,7 @@
 #include<stdio.h>
 int tuyu (){
     
-    print("123.com");
+    print("12345.com");
   
     
     print("123.com");
