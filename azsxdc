@@ -1,0 +1,17 @@
+#include<stdio.h>
+int ttdd (){
+    printf("hello world");
+    int a, b;
+        a = 10;
+      
+        printf("a + b = %d", a + b);
+
+     
+     
+        printf("a + b +60= %d", a + b);
+        printf("a + b+10= %d", a + b);
+
+      printf("a + b+10+20= %d", a + b);
+      
+        printf("a + b = %d", a + b);
+    return 0;
