@@ -4,7 +4,8 @@ int main (){
     int a, b;
         a = 10;
         b = 20;
-        c=25;
+        c=255252;
         printf("a + b+c = %d", a + b+c);
+        
     return 0;
 }
